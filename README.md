@@ -14,6 +14,13 @@ The search uses a recursive Depth First Search approach. Instead of checking eve
 
 This method is useful for discovering resources in nested data structures or hierarchical file systems.
 
+       0
+     /   \
+    1     2
+   / \   / \
+  3   4 5   6
+ / \ ...
+7   8
 
 
 ### Execution
